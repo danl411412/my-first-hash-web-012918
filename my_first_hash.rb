@@ -25,7 +25,6 @@ def adding
 
   #your code here
   #remember to return the shipping_manifest hash
-  shipping_manifest["muskets"] = 3
-  shipping_manifest["gun powder"] = 4
+  shipping_manifest["pearl necklace"] = 1
   shipping_manifest
 end
